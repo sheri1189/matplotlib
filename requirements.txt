@@ -1,0 +1,7 @@
+
+### `requirements.txt`
+
+```plaintext
+streamlit
+pandas
+matplotlib
